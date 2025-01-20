@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @the-machine-preacher
 - 👀 I’m interested in Python & Artificial Intelligence
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on The_Good_Robot (Discord bot)
 - 📫 How to reach me: just send me a message on GitHub
 
 <!---
