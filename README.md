@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the-machine-preacher
 - 👀 I’m interested in Python & Artificial Intelligence
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & machine learning
 - 📫 How to reach me: just send me a message on GitHub
 
 <!---
